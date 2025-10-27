@@ -1,0 +1,1171 @@
+[
+  {
+    "busNumber": "1",
+    "source": "Ramnagar",
+    "destination": "Palbazar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "1A",
+    "source": "Ramnagar",
+    "destination": "Mukundapur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "1B",
+    "source": "Ramnagar",
+    "destination": "Nayabad (Garia)",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "3",
+    "source": "Bagbazar",
+    "destination": "Serampore",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "3",
+    "source": "Salt Lake Technopolis",
+    "destination": "Serampore",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "3B",
+    "source": "Milk Colony",
+    "destination": "New Alipore",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "3C/1",
+    "source": "Nagerbazar",
+    "destination": "Anandapur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "3C/2",
+    "source": "Nagerbazar",
+    "destination": "Ruby Hospital",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "3D",
+    "source": "Milk Colony",
+    "destination": "Sakherbazar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "3D/1",
+    "source": "Milk Colony",
+    "destination": "Sakherbazar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "12",
+    "source": "Rajabazar",
+    "destination": "Rajabagan",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "12A",
+    "source": "Howrah Station",
+    "destination": "Rajabagan",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "12B",
+    "source": "Esplanade",
+    "destination": "Badartala",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "12C",
+    "source": "Howrah Station",
+    "destination": "Pailan",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "12C/1",
+    "source": "Howrah Station",
+    "destination": "Shibrampurp",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "12C/1A",
+    "source": "Howrah Station",
+    "destination": "Konchowki",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "12C/2",
+    "source": "Howrah Station",
+    "destination": "Thakdari",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "12AD",
+    "source": "Howrah Maidan",
+    "destination": "Akrafatak",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "12/1",
+    "source": "Sealdah",
+    "destination": "Fatepur 28 No.",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "13",
+    "source": "Sealdah",
+    "destination": "Parnasree",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "13A",
+    "source": "B.B.D. Bagh",
+    "destination": "Shampa Mirza Nagar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "13C",
+    "source": "Old Dakghar",
+    "destination": "Layalka",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "17",
+    "source": "Howrah Station",
+    "destination": "Chetla",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "17B",
+    "source": "Howrah Station",
+    "destination": "Baghajatin",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "18B/1",
+    "source": "Dakghar",
+    "destination": "China Mandir",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "18C",
+    "source": "Kestor More",
+    "destination": "Anandapur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "18D",
+    "source": "Howrah Station",
+    "destination": "Surya Sen Nagar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "21",
+    "source": "Sealdah",
+    "destination": "Kadamtala",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "21/1",
+    "source": "Sealdah",
+    "destination": "Kadamtala",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "23",
+    "source": "Barasat",
+    "destination": "Boalghata",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "24",
+    "source": "Bandhaghat",
+    "destination": "Topsia",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "24A",
+    "source": "Bandhaghat",
+    "destination": "Topsia",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "24A/1",
+    "source": "Howrah Fire Service Station",
+    "destination": "Mukundapur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "26",
+    "source": "Bonhoogly",
+    "destination": "Chapadanga",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "28",
+    "source": "Howrah Maidan",
+    "destination": "Sealdah",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "30A",
+    "source": "Esplanade",
+    "destination": "Sinthee",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "30B",
+    "source": "Babughat",
+    "destination": "Gouripur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "30B/1",
+    "source": "Howrah Station",
+    "destination": "Gouripur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "30C",
+    "source": "Babughat",
+    "destination": "Hatiara",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "30C/1",
+    "source": "Babughat",
+    "destination": "Hatiara",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "30D",
+    "source": "Babughat",
+    "destination": "Dum Dum Cantonment Station",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "32A",
+    "source": "Dakshineshwar",
+    "destination": "Salt Lake Technopolis",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "34B",
+    "source": "Esplanade",
+    "destination": "Dunlop",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "34B/1",
+    "source": "Esplanade",
+    "destination": "Pardankuni",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "34C",
+    "source": "Esplanade",
+    "destination": "Noapara/Dum Dum Cantonment",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "37",
+    "source": "Howrah Station",
+    "destination": "Dhakuria",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "37A",
+    "source": "Howrah Station",
+    "destination": "Nayabad (Garia)",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "39",
+    "source": "High Court",
+    "destination": "Picnic Garden",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "39A/2",
+    "source": "Howrah Station",
+    "destination": "VIP Bazar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "39A/2",
+    "source": "Howrah Station",
+    "destination": "Bhojherhat",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "40A",
+    "source": "Babughat",
+    "destination": "Julpia",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "40B",
+    "source": "Babughat",
+    "destination": "Thakurpukur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "41",
+    "source": "Howrah Station",
+    "destination": "Layalka",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "41B",
+    "source": "High Court",
+    "destination": "Netaji Nagar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "42A",
+    "source": "Picnic Garden",
+    "destination": "Bichalighat",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "42B",
+    "source": "Beliaghata Sales Tax",
+    "destination": "Bichalighat",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "43",
+    "source": "Esplanade",
+    "destination": "Bonhoogly",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "43/1",
+    "source": "Esplanade",
+    "destination": "Ariadaha",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "44",
+    "source": "Howrah Station",
+    "destination": "Baguihati",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "44A",
+    "source": "Howrah Station",
+    "destination": "Salt Lake",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "45",
+    "source": "Airport Gate No.1",
+    "destination": "Patuli",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "45A",
+    "source": "Gouripur",
+    "destination": "Garia Railway Station",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "45B",
+    "source": "Building More",
+    "destination": "Garia Railway Station",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "46",
+    "source": "Esplanade",
+    "destination": "Airport Gate No.1",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "46B",
+    "source": "Esplanade",
+    "destination": "Akansha",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "47",
+    "source": "Lake Town",
+    "destination": "New Town",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "47B",
+    "source": "Lake Town",
+    "destination": "Ruby Hospital",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "47/1",
+    "source": "Tollygunge Tram Depot",
+    "destination": "Salt Lake Tank No.12",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "51",
+    "source": "Howrah Station",
+    "destination": "Pardankuni",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "52",
+    "source": "Ramrajatala",
+    "destination": "Esplanade",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "53",
+    "source": "Howrah Station",
+    "destination": "Narit",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "54",
+    "source": "Ballykhal",
+    "destination": "Esplanade",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "54/2",
+    "source": "Howrah Station",
+    "destination": "Rishra Station",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "55",
+    "source": "Shibpur Botanical Garden",
+    "destination": "Esplanade",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "55A",
+    "source": "Shibpur Tram Depot",
+    "destination": "Esplanade",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "56",
+    "source": "Howrah Station",
+    "destination": "Ruiya Pubapara",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "57",
+    "source": "Kona",
+    "destination": "Esplanade",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "57A",
+    "source": "Howrah Station",
+    "destination": "Chanditala",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "58",
+    "source": "Chatterjeehat",
+    "destination": "Esplanade",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "59",
+    "source": "Bakultala",
+    "destination": "Esplanade",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "61",
+    "source": "Howrah Station",
+    "destination": "Alampur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "63",
+    "source": "Howrah Station",
+    "destination": "Domjur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "71",
+    "source": "Howrah Maidan",
+    "destination": "Salt Lake",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "72",
+    "source": "Dasnagar",
+    "destination": "Park Circus",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "72",
+    "source": "Basirhat",
+    "destination": "Nazat",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "72A",
+    "source": "Basirhat",
+    "destination": "Dhamakhali",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "73",
+    "source": "Kadamtala",
+    "destination": "Esplanade",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "74",
+    "source": "Habra",
+    "destination": "Naihati",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "75",
+    "source": "Babughat",
+    "destination": "Roypur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "77A",
+    "source": "Esplanade",
+    "destination": "Birlapur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "77A",
+    "source": "Esplanade",
+    "destination": "Batanagar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "78",
+    "source": "Esplanade",
+    "destination": "Barrackpore Court",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "78C/1",
+    "source": "Barasat",
+    "destination": "Dakshineshwar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "78E",
+    "source": "Bongaon",
+    "destination": "Dakshineshwar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "78/1",
+    "source": "Babughat",
+    "destination": "Rahara Bazar/Parthapur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "79",
+    "source": "Dunlop",
+    "destination": "Panchla",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "79B",
+    "source": "Bagbazar",
+    "destination": "Barasat",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "79D",
+    "source": "Babughat",
+    "destination": "Madhyamgram",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "80A",
+    "source": "Esplanade",
+    "destination": "Garia Bus Stand",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "80B",
+    "source": "Esplanade",
+    "destination": "Garia Bus Stand",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "81",
+    "source": "Barasat",
+    "destination": "Barrackpore Fishery Gate",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "83",
+    "source": "Babughat",
+    "destination": "Falta",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "85",
+    "source": "Barrackpore Court",
+    "destination": "Kanchrapara",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "87",
+    "source": "Barasat",
+    "destination": "Jaguli",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "87A",
+    "source": "Barasat",
+    "destination": "Naihati",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "88",
+    "source": "Barasat",
+    "destination": "Kanchrapara",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "91",
+    "source": "Shyambazar",
+    "destination": "Bhangor",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "91A",
+    "source": "Shyambazar",
+    "destination": "Haroa",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "91B",
+    "source": "Shyambazar",
+    "destination": "Bhojherhat",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "91C",
+    "source": "Shyambazar",
+    "destination": "Lauhati",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "92",
+    "source": "Bongaon",
+    "destination": "Boyra",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "92A",
+    "source": "Bongaon",
+    "destination": "Duttaphulia",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "93",
+    "source": "Bagbazar",
+    "destination": "Kharibari",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "94",
+    "source": "Diamond Harbour",
+    "destination": "Namkhana",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "95",
+    "source": "Bongaon",
+    "destination": "Ashoknagar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "96C",
+    "source": "Bongaon",
+    "destination": "Berigopalpur Ghat",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "96D",
+    "source": "Bongaon",
+    "destination": "Duttaphulia",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "201",
+    "source": "Nimta",
+    "destination": "Salt Lake Nicco Park",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "202",
+    "source": "Nagerbazar",
+    "destination": "Science City",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "204/1",
+    "source": "Rajabazar",
+    "destination": "Chetla",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "205",
+    "source": "Babughat",
+    "destination": "Bansdroni",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "205A",
+    "source": "Babughat",
+    "destination": "Bansdroni",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "206",
+    "source": "New Garia Station",
+    "destination": "Salt Lake AJ Block",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "208",
+    "source": "Howrah Station",
+    "destination": "Kudghat",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "210",
+    "source": "Esplanade",
+    "destination": "Raichak",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "211",
+    "source": "Ahiritola",
+    "destination": "Kharibari",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "211A",
+    "source": "Ahiritola",
+    "destination": "Langolpota",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "211B",
+    "source": "Ahiritola",
+    "destination": "Kharibari",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "212",
+    "source": "Howrah Station",
+    "destination": "Palbazar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "213",
+    "source": "Babughat",
+    "destination": "Ghatakpukur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "213/1",
+    "source": "Shibpur Botanical Garden",
+    "destination": "Ghatakpukur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "214",
+    "source": "Esplanade",
+    "destination": "Sajirhat",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "214A",
+    "source": "Esplanade",
+    "destination": "Sodepur Girja",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "215",
+    "source": "Howrah Station",
+    "destination": "Lake Town",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "215/1",
+    "source": "Howrah Station",
+    "destination": "Lake Town VIP",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "215A",
+    "source": "Howrah Station",
+    "destination": "Salt Lake Technopolis",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "215A/1",
+    "source": "Howrah Station",
+    "destination": "Mahishbathan",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "217",
+    "source": "Babughat",
+    "destination": "Narayanpur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "217A",
+    "source": "Babughat",
+    "destination": "Beraberi",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "217B",
+    "source": "Babughat",
+    "destination": "Bablatala",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "218",
+    "source": "Babughat",
+    "destination": "Baruipur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "219",
+    "source": "Howrah Station",
+    "destination": "Nagerbazar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "219/1",
+    "source": "Howrah Station",
+    "destination": "Nagerbazar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "221",
+    "source": "Nagerbazar",
+    "destination": "Golpark",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "222",
+    "source": "Behala Chowrasta",
+    "destination": "Dunlop",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "223",
+    "source": "B.T. College",
+    "destination": "Golf Green",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "227",
+    "source": "B.N.R.",
+    "destination": "Bangur",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "228",
+    "source": "Babughat",
+    "destination": "Mahamayatala",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "230",
+    "source": "Kamarhati",
+    "destination": "Alipore Zoo",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "234",
+    "source": "Belghoria",
+    "destination": "Golf Green",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "234/1",
+    "source": "Belghoria Station",
+    "destination": "Golf Green",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "235",
+    "source": "Salt Lake",
+    "destination": "Amtala",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "237",
+    "source": "Babughat",
+    "destination": "Tatkal",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "237/1",
+    "source": "Babughat",
+    "destination": "Birati",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "238",
+    "source": "Barasat",
+    "destination": "Howrah Station",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "239",
+    "source": "Babughat",
+    "destination": "Salt Lake",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "239B",
+    "source": "Howrah Station",
+    "destination": "Mahisbathan",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "240",
+    "source": "Bagbazar",
+    "destination": "Jodhpur Park",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "240/1",
+    "source": "Bagbazar",
+    "destination": "Golf Green",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "241",
+    "source": "Esplanade",
+    "destination": "Akra Santoshpur Station",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "241A",
+    "source": "Sealdah",
+    "destination": "Akrafatak",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "242",
+    "source": "Esplanade",
+    "destination": "Cossipore (4B Bus Stand)",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "246",
+    "source": "Burul",
+    "destination": "Radhanagar",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "252",
+    "source": "Esplanade",
+    "destination": "Hasnabad",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "253",
+    "source": "Esplanade",
+    "destination": "Basirhat",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "257",
+    "source": "Kolkata Railway Station",
+    "destination": "Julpia",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  },
+  {
+    "busNumber": "259",
+    "source": "Howrah Station",
+    "destination": "Akra",
+    "busType": "Government - NON AC",
+    "city": "Kolkata"
+  }
+]
