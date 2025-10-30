@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect } from 'react';
+import Fuse from 'fuse.js';
 import { Command, CommandDialog, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from "@/components/ui/command"
 import { Button } from "@/components/ui/button"
 import { Search, MapPin } from "lucide-react"
@@ -13,6 +14,8 @@ export default function SearchRoutes({ onSearch, loading }) {
   const [destinationOpen, setDestinationOpen] = useState(false);
   const [filteredSource, setFilteredSource] = useState([]);
   const [filteredDestination, setFilteredDestination] = useState([]);
+  const [fuseSource, setFuseSource] = useState(null);
+  const [fuseDestination, setFuseDestination] = useState(null);
 
   useEffect(() => {
     // Fetch and process bus stops from busInfo.json
@@ -25,28 +28,31 @@ export default function SearchRoutes({ onSearch, loading }) {
             stops.add(stop.stopageName);
           });
         });
-        setAllStops(Array.from(stops));
-        setFilteredSource(Array.from(stops));
-        setFilteredDestination(Array.from(stops));
+        const stopsArr = Array.from(stops);
+        setAllStops(stopsArr);
+        setFilteredSource(stopsArr);
+        setFilteredDestination(stopsArr);
+        setFuseSource(new Fuse(stopsArr, { threshold: 0.3 }));
+        setFuseDestination(new Fuse(stopsArr, { threshold: 0.3 }));
       });
   }, []);
 
   const handleSourceChange = (value) => {
     setSource(value);
-    setFilteredSource(
-      allStops.filter(stop => 
-        stop.toLowerCase().includes(value.toLowerCase())
-      )
-    );
+    if (fuseSource && value.trim()) {
+      setFilteredSource(fuseSource.search(value).map(r => r.item));
+    } else {
+      setFilteredSource(allStops);
+    }
   };
 
   const handleDestinationChange = (value) => {
     setDestination(value);
-    setFilteredDestination(
-      allStops.filter(stop => 
-        stop.toLowerCase().includes(value.toLowerCase())
-      )
-    );
+    if (fuseDestination && value.trim()) {
+      setFilteredDestination(fuseDestination.search(value).map(r => r.item));
+    } else {
+      setFilteredDestination(allStops);
+    }
   };
 
   const handleSearch = () => {

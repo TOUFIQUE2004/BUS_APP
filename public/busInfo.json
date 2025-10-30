@@ -56635,5 +56635,157 @@
         "downTime": "10:40 AM"
       }
     ]
+  },
+  {
+    "busName": "HOWRAH - BARDHAMAN EXPRESS",
+    "alternateName": "HB Express",
+    "agencyName": "WBTC",
+    "registrationNumber": "WB02H1001",
+    "busType": "Government - AC",
+    "contactNumber": "033-40000001",
+    "depotName": "Howrah",
+    "destination": "Bardhaman",
+    "schedule": [
+      { "upTime": "6:00 AM", "stopageName": "Howrah", "downTime": "9:00 PM" },
+      { "upTime": "6:30 AM", "stopageName": "Bally", "downTime": "8:30 PM" },
+      { "upTime": "7:00 AM", "stopageName": "Dankuni", "downTime": "8:00 PM" },
+      { "upTime": "7:45 AM", "stopageName": "Panagarh", "downTime": "6:15 PM" },
+      { "upTime": "8:30 AM", "stopageName": "Bardhaman", "downTime": "5:00 PM" }
+    ]
+  },
+  {
+    "busName": "SUPERFAST HOWRAH BARDHAMAN",
+    "alternateName": "HB Superfast",
+    "agencyName": "Private Travels Co.",
+    "registrationNumber": "WB02P2002",
+    "busType": "Private - NON AC",
+    "contactNumber": "9000000021",
+    "depotName": "Howrah",
+    "destination": "Bardhaman",
+    "schedule": [
+      { "upTime": "7:15 AM", "stopageName": "Howrah", "downTime": "9:00 PM" },
+      { "upTime": "7:40 AM", "stopageName": "Uttarpara", "downTime": "8:30 PM" },
+      { "upTime": "8:05 AM", "stopageName": "Chinsurah", "downTime": "8:00 PM" },
+      { "upTime": "8:45 AM", "stopageName": "Bandel", "downTime": "7:20 PM" },
+      { "upTime": "9:20 AM", "stopageName": "Bardhaman", "downTime": "6:00 PM" }
+    ]
+  },
+  {
+    "busName": "HOWRAH LOCAL TO BARDHAMAN",
+    "alternateName": "",
+    "agencyName": "City Link",
+    "registrationNumber": "WB02L3003",
+    "busType": "Government - NON AC",
+    "contactNumber": "033-45500003",
+    "depotName": "Howrah",
+    "destination": "Bardhaman",
+    "schedule": [
+      { "upTime": "5:30 AM", "stopageName": "Howrah", "downTime": "9:00 PM" },
+      { "upTime": "6:00 AM", "stopageName": "Serampore", "downTime": "8:00 PM" },
+      { "upTime": "6:30 AM", "stopageName": "Chandannagar", "downTime": "7:30 PM" },
+      { "upTime": "7:10 AM", "stopageName": "Dankuni", "downTime": "7:10 PM" },
+      { "upTime": "7:50 AM", "stopageName": "Panagarh", "downTime": "6:00 PM" },
+      { "upTime": "8:30 AM", "stopageName": "Bardhaman", "downTime": "5:30 PM" }
+    ]
+  },
+  {
+    "busName": "Karimpur Bardhaman Express",
+    "alternateName": "KBP Super",
+    "agencyName": "WBTC",
+    "registrationNumber": "WB20K1234",
+    "busType": "Government - NON AC",
+    "contactNumber": "033-12345678",
+    "depotName": "Karimpur",
+    "destination": "Bardhaman",
+    "schedule": [
+      { "upTime": "5:00 AM", "stopageName": "Karimpur", "downTime": "8:00 PM" },
+      { "upTime": "5:45 AM", "stopageName": "Krishnanagar", "downTime": "7:15 PM" },
+      { "upTime": "6:30 AM", "stopageName": "Nabadwip", "downTime": "6:30 PM" },
+      { "upTime": "7:15 AM", "stopageName": "Katwa", "downTime": "5:45 PM" },
+      { "upTime": "8:00 AM", "stopageName": "Bardhaman", "downTime": "5:00 PM" }
+    ]
+  },
+  {
+    "busName": "Karimpur Bardhaman Local",
+    "alternateName": "KBL",
+    "agencyName": "Private Operator",
+    "registrationNumber": "WB20K5678",
+    "busType": "Private - NON AC",
+    "contactNumber": "9876543210",
+    "depotName": "Karimpur",
+    "destination": "Bardhaman",
+    "schedule": [
+      { "upTime": "6:00 AM", "stopageName": "Karimpur", "downTime": "7:00 PM" },
+      { "upTime": "6:40 AM", "stopageName": "Tehatta", "downTime": "6:20 PM" },
+      { "upTime": "7:20 AM", "stopageName": "Palashipara", "downTime": "5:40 PM" },
+      { "upTime": "8:00 AM", "stopageName": "Katwa", "downTime": "5:00 PM" },
+      { "upTime": "8:40 AM", "stopageName": "Bardhaman", "downTime": "4:20 PM" }
+    ]
+  },
+  {
+    "busName": "Karimpur Bardhaman AC",
+    "alternateName": "KBA",
+    "agencyName": "WBTC",
+    "registrationNumber": "WB20K9012",
+    "busType": "Government - AC",
+    "contactNumber": "033-87654321",
+    "depotName": "Karimpur",
+    "destination": "Bardhaman",
+    "schedule": [
+      { "upTime": "7:00 AM", "stopageName": "Karimpur", "downTime": "6:00 PM" },
+      { "upTime": "7:50 AM", "stopageName": "Krishnanagar", "downTime": "5:10 PM" },
+      { "upTime": "8:40 AM", "stopageName": "Nabadwip", "downTime": "4:20 PM" },
+      { "upTime": "9:30 AM", "stopageName": "Katwa", "downTime": "3:30 PM" },
+      { "upTime": "10:20 AM", "stopageName": "Bardhaman", "downTime": "2:40 PM" }
+    ]
+  },
+  {
+    "busName": "Karimpur Berhampore Express",
+    "alternateName": "KBE Super",
+    "agencyName": "WBTC",
+    "registrationNumber": "WB20K4321",
+    "busType": "Government - NON AC",
+    "contactNumber": "033-12345679",
+    "depotName": "Karimpur",
+    "destination": "Berhampore",
+    "schedule": [
+      { "upTime": "5:30 AM", "stopageName": "Karimpur", "downTime": "8:00 PM" },
+      { "upTime": "6:10 AM", "stopageName": "Tehatta", "downTime": "7:20 PM" },
+      { "upTime": "6:50 AM", "stopageName": "Palashipara", "downTime": "6:40 PM" },
+      { "upTime": "7:30 AM", "stopageName": "Beldanga", "downTime": "6:00 PM" },
+      { "upTime": "8:10 AM", "stopageName": "Berhampore", "downTime": "5:20 PM" }
+    ]
+  },
+  {
+    "busName": "Karimpur Berhampore Local",
+    "alternateName": "KBL",
+    "agencyName": "Private Operator",
+    "registrationNumber": "WB20K8765",
+    "busType": "Private - NON AC",
+    "contactNumber": "9876543211",
+    "depotName": "Karimpur",
+    "destination": "Berhampore",
+    "schedule": [
+      { "upTime": "6:30 AM", "stopageName": "Karimpur", "downTime": "7:30 PM" },
+      { "upTime": "7:10 AM", "stopageName": "Nashipur", "downTime": "6:50 PM" },
+      { "upTime": "7:50 AM", "stopageName": "Beldanga", "downTime": "6:10 PM" },
+      { "upTime": "8:30 AM", "stopageName": "Berhampore", "downTime": "5:30 PM" }
+    ]
+  },
+  {
+    "busName": "Karimpur Berhampore AC",
+    "alternateName": "KBA",
+    "agencyName": "WBTC",
+    "registrationNumber": "WB20K6543",
+    "busType": "Government - AC",
+    "contactNumber": "033-87654322",
+    "depotName": "Karimpur",
+    "destination": "Berhampore",
+    "schedule": [
+      { "upTime": "7:30 AM", "stopageName": "Karimpur", "downTime": "6:30 PM" },
+      { "upTime": "8:10 AM", "stopageName": "Tehatta", "downTime": "5:50 PM" },
+      { "upTime": "8:50 AM", "stopageName": "Beldanga", "downTime": "5:10 PM" },
+      { "upTime": "9:30 AM", "stopageName": "Berhampore", "downTime": "4:30 PM" }
+    ]
   }
 ]

@@ -73,40 +73,76 @@ function findBusesBetweenLocations(source, destination) {
   const buses = loadBusData();
   const matchingBuses = [];
   
+  // Normalization function
+  const norm = s => (s || '').toLowerCase().trim();
+  const srcNorm = norm(source);
+  const destNorm = norm(destination);
+  
+  // Helper function to check if a string contains or matches another string
+  const matches = (text, query) => {
+    const normalized = norm(text);
+    return normalized === query || normalized.includes(query) || query.includes(normalized);
+  };
+  
   buses.forEach(bus => {
     const stops = bus.schedule?.map(s => s.stopageName) || [];
     
-    // Check if source matches depot or any stoppage
-    const sourceMatches = [
-      bus.depotName === source ? 0 : -1,  // Check depot
-      stops.indexOf(source)               // Check stoppages
-    ].filter(idx => idx !== -1);
+    // Find all indices where source/destination matches
+    const sourceIndices = new Set();
+    const destIndices = new Set();
     
-    // Check if destination matches final destination or any stoppage
-    const destMatches = [
-      bus.destination === destination ? stops.length - 1 : -1,  // Check final destination
-      stops.indexOf(destination)                               // Check stoppages
-    ].filter(idx => idx !== -1);
+    stops.forEach((stop, idx) => {
+      if (matches(stop, srcNorm)) sourceIndices.add(idx);
+      if (matches(stop, destNorm)) destIndices.add(idx);
+    });
     
-    // Find the earliest source match and latest destination match
-    const sourceIndex = sourceMatches.length > 0 ? Math.min(...sourceMatches) : -1;
-    const destIndex = destMatches.length > 0 ? Math.max(...destMatches) : -1;
+    // Also check depot and final destination
+    if (matches(bus.depotName, srcNorm)) sourceIndices.add(0);
+    if (matches(bus.destination, srcNorm)) sourceIndices.add(stops.length - 1);
+    if (matches(bus.depotName, destNorm)) destIndices.add(0);
+    if (matches(bus.destination, destNorm)) destIndices.add(stops.length - 1);
     
-    // Add bus if we found valid source and destination in correct order
-    if (sourceIndex !== -1 && destIndex !== -1 && sourceIndex < destIndex) {
-      const routeStops = bus.schedule.slice(sourceIndex, destIndex + 1);
-      matchingBuses.push({
-        ...bus,
-        routeStops,
-        sourceStop: bus.schedule[sourceIndex],
-        destStop: bus.schedule[destIndex],
-        isSourceDepot: bus.depotName === source,
-        isDestinationFinal: bus.destination === destination
+    // For each source/destination index pair, check order
+    sourceIndices.forEach(srcIdx => {
+      destIndices.forEach(destIdx => {
+        if (srcIdx !== destIdx) {
+          if (srcIdx < destIdx) {
+            const routeStops = bus.schedule.slice(srcIdx, destIdx + 1);
+            matchingBuses.push({
+              ...bus,
+              routeStops,
+              sourceStop: bus.schedule[srcIdx],
+              destStop: bus.schedule[destIdx],
+              direction: 'forward'
+            });
+          } else if (destIdx < srcIdx) {
+            const routeStops = bus.schedule.slice(destIdx, srcIdx + 1).reverse();
+            matchingBuses.push({
+              ...bus,
+              routeStops,
+              sourceStop: bus.schedule[srcIdx],
+              destStop: bus.schedule[destIdx],
+              direction: 'reverse'
+            });
+          }
+        }
       });
+    });
+  });
+  
+  // Remove duplicates (same bus appearing multiple times for different stop pairs)
+  const uniqueBuses = [];
+  const seenBuses = new Set();
+  
+  matchingBuses.forEach(bus => {
+    const key = `${bus.registrationNumber}_${bus.sourceStop?.stopageName}_${bus.destStop?.stopageName}`;
+    if (!seenBuses.has(key)) {
+      seenBuses.add(key);
+      uniqueBuses.push(bus);
     }
   });
   
-  return matchingBuses;
+  return uniqueBuses;
 }
 
 export async function GET(request) {
