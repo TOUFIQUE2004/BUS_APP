@@ -56646,11 +56646,31 @@
     "depotName": "Howrah",
     "destination": "Bardhaman",
     "schedule": [
-      { "upTime": "6:00 AM", "stopageName": "Howrah", "downTime": "9:00 PM" },
-      { "upTime": "6:30 AM", "stopageName": "Bally", "downTime": "8:30 PM" },
-      { "upTime": "7:00 AM", "stopageName": "Dankuni", "downTime": "8:00 PM" },
-      { "upTime": "7:45 AM", "stopageName": "Panagarh", "downTime": "6:15 PM" },
-      { "upTime": "8:30 AM", "stopageName": "Bardhaman", "downTime": "5:00 PM" }
+      {
+        "upTime": "6:00 AM",
+        "stopageName": "Howrah",
+        "downTime": "9:00 PM"
+      },
+      {
+        "upTime": "6:30 AM",
+        "stopageName": "Bally",
+        "downTime": "8:30 PM"
+      },
+      {
+        "upTime": "7:00 AM",
+        "stopageName": "Dankuni",
+        "downTime": "8:00 PM"
+      },
+      {
+        "upTime": "7:45 AM",
+        "stopageName": "Panagarh",
+        "downTime": "6:15 PM"
+      },
+      {
+        "upTime": "8:30 AM",
+        "stopageName": "Bardhaman",
+        "downTime": "5:00 PM"
+      }
     ]
   },
   {
@@ -56663,11 +56683,31 @@
     "depotName": "Howrah",
     "destination": "Bardhaman",
     "schedule": [
-      { "upTime": "7:15 AM", "stopageName": "Howrah", "downTime": "9:00 PM" },
-      { "upTime": "7:40 AM", "stopageName": "Uttarpara", "downTime": "8:30 PM" },
-      { "upTime": "8:05 AM", "stopageName": "Chinsurah", "downTime": "8:00 PM" },
-      { "upTime": "8:45 AM", "stopageName": "Bandel", "downTime": "7:20 PM" },
-      { "upTime": "9:20 AM", "stopageName": "Bardhaman", "downTime": "6:00 PM" }
+      {
+        "upTime": "7:15 AM",
+        "stopageName": "Howrah",
+        "downTime": "9:00 PM"
+      },
+      {
+        "upTime": "7:40 AM",
+        "stopageName": "Uttarpara",
+        "downTime": "8:30 PM"
+      },
+      {
+        "upTime": "8:05 AM",
+        "stopageName": "Chinsurah",
+        "downTime": "8:00 PM"
+      },
+      {
+        "upTime": "8:45 AM",
+        "stopageName": "Bandel",
+        "downTime": "7:20 PM"
+      },
+      {
+        "upTime": "9:20 AM",
+        "stopageName": "Bardhaman",
+        "downTime": "6:00 PM"
+      }
     ]
   },
   {
@@ -56680,12 +56720,36 @@
     "depotName": "Howrah",
     "destination": "Bardhaman",
     "schedule": [
-      { "upTime": "5:30 AM", "stopageName": "Howrah", "downTime": "9:00 PM" },
-      { "upTime": "6:00 AM", "stopageName": "Serampore", "downTime": "8:00 PM" },
-      { "upTime": "6:30 AM", "stopageName": "Chandannagar", "downTime": "7:30 PM" },
-      { "upTime": "7:10 AM", "stopageName": "Dankuni", "downTime": "7:10 PM" },
-      { "upTime": "7:50 AM", "stopageName": "Panagarh", "downTime": "6:00 PM" },
-      { "upTime": "8:30 AM", "stopageName": "Bardhaman", "downTime": "5:30 PM" }
+      {
+        "upTime": "5:30 AM",
+        "stopageName": "Howrah",
+        "downTime": "9:00 PM"
+      },
+      {
+        "upTime": "6:00 AM",
+        "stopageName": "Serampore",
+        "downTime": "8:00 PM"
+      },
+      {
+        "upTime": "6:30 AM",
+        "stopageName": "Chandannagar",
+        "downTime": "7:30 PM"
+      },
+      {
+        "upTime": "7:10 AM",
+        "stopageName": "Dankuni",
+        "downTime": "7:10 PM"
+      },
+      {
+        "upTime": "7:50 AM",
+        "stopageName": "Panagarh",
+        "downTime": "6:00 PM"
+      },
+      {
+        "upTime": "8:30 AM",
+        "stopageName": "Bardhaman",
+        "downTime": "5:30 PM"
+      }
     ]
   },
   {
@@ -56698,11 +56762,31 @@
     "depotName": "Karimpur",
     "destination": "Bardhaman",
     "schedule": [
-      { "upTime": "5:00 AM", "stopageName": "Karimpur", "downTime": "8:00 PM" },
-      { "upTime": "5:45 AM", "stopageName": "Krishnanagar", "downTime": "7:15 PM" },
-      { "upTime": "6:30 AM", "stopageName": "Nabadwip", "downTime": "6:30 PM" },
-      { "upTime": "7:15 AM", "stopageName": "Katwa", "downTime": "5:45 PM" },
-      { "upTime": "8:00 AM", "stopageName": "Bardhaman", "downTime": "5:00 PM" }
+      {
+        "upTime": "5:00 AM",
+        "stopageName": "Karimpur",
+        "downTime": "8:00 PM"
+      },
+      {
+        "upTime": "5:45 AM",
+        "stopageName": "Krishnanagar",
+        "downTime": "7:15 PM"
+      },
+      {
+        "upTime": "6:30 AM",
+        "stopageName": "Nabadwip",
+        "downTime": "6:30 PM"
+      },
+      {
+        "upTime": "7:15 AM",
+        "stopageName": "Katwa",
+        "downTime": "5:45 PM"
+      },
+      {
+        "upTime": "8:00 AM",
+        "stopageName": "Bardhaman",
+        "downTime": "5:00 PM"
+      }
     ]
   },
   {
@@ -56715,11 +56799,31 @@
     "depotName": "Karimpur",
     "destination": "Bardhaman",
     "schedule": [
-      { "upTime": "6:00 AM", "stopageName": "Karimpur", "downTime": "7:00 PM" },
-      { "upTime": "6:40 AM", "stopageName": "Tehatta", "downTime": "6:20 PM" },
-      { "upTime": "7:20 AM", "stopageName": "Palashipara", "downTime": "5:40 PM" },
-      { "upTime": "8:00 AM", "stopageName": "Katwa", "downTime": "5:00 PM" },
-      { "upTime": "8:40 AM", "stopageName": "Bardhaman", "downTime": "4:20 PM" }
+      {
+        "upTime": "6:00 AM",
+        "stopageName": "Karimpur",
+        "downTime": "7:00 PM"
+      },
+      {
+        "upTime": "6:40 AM",
+        "stopageName": "Tehatta",
+        "downTime": "6:20 PM"
+      },
+      {
+        "upTime": "7:20 AM",
+        "stopageName": "Palashipara",
+        "downTime": "5:40 PM"
+      },
+      {
+        "upTime": "8:00 AM",
+        "stopageName": "Katwa",
+        "downTime": "5:00 PM"
+      },
+      {
+        "upTime": "8:40 AM",
+        "stopageName": "Bardhaman",
+        "downTime": "4:20 PM"
+      }
     ]
   },
   {
@@ -56732,11 +56836,31 @@
     "depotName": "Karimpur",
     "destination": "Bardhaman",
     "schedule": [
-      { "upTime": "7:00 AM", "stopageName": "Karimpur", "downTime": "6:00 PM" },
-      { "upTime": "7:50 AM", "stopageName": "Krishnanagar", "downTime": "5:10 PM" },
-      { "upTime": "8:40 AM", "stopageName": "Nabadwip", "downTime": "4:20 PM" },
-      { "upTime": "9:30 AM", "stopageName": "Katwa", "downTime": "3:30 PM" },
-      { "upTime": "10:20 AM", "stopageName": "Bardhaman", "downTime": "2:40 PM" }
+      {
+        "upTime": "7:00 AM",
+        "stopageName": "Karimpur",
+        "downTime": "6:00 PM"
+      },
+      {
+        "upTime": "7:50 AM",
+        "stopageName": "Krishnanagar",
+        "downTime": "5:10 PM"
+      },
+      {
+        "upTime": "8:40 AM",
+        "stopageName": "Nabadwip",
+        "downTime": "4:20 PM"
+      },
+      {
+        "upTime": "9:30 AM",
+        "stopageName": "Katwa",
+        "downTime": "3:30 PM"
+      },
+      {
+        "upTime": "10:20 AM",
+        "stopageName": "Bardhaman",
+        "downTime": "2:40 PM"
+      }
     ]
   },
   {
@@ -56749,11 +56873,31 @@
     "depotName": "Karimpur",
     "destination": "Berhampore",
     "schedule": [
-      { "upTime": "5:30 AM", "stopageName": "Karimpur", "downTime": "8:00 PM" },
-      { "upTime": "6:10 AM", "stopageName": "Tehatta", "downTime": "7:20 PM" },
-      { "upTime": "6:50 AM", "stopageName": "Palashipara", "downTime": "6:40 PM" },
-      { "upTime": "7:30 AM", "stopageName": "Beldanga", "downTime": "6:00 PM" },
-      { "upTime": "8:10 AM", "stopageName": "Berhampore", "downTime": "5:20 PM" }
+      {
+        "upTime": "5:30 AM",
+        "stopageName": "Karimpur",
+        "downTime": "8:00 PM"
+      },
+      {
+        "upTime": "6:10 AM",
+        "stopageName": "Tehatta",
+        "downTime": "7:20 PM"
+      },
+      {
+        "upTime": "6:50 AM",
+        "stopageName": "Palashipara",
+        "downTime": "6:40 PM"
+      },
+      {
+        "upTime": "7:30 AM",
+        "stopageName": "Beldanga",
+        "downTime": "6:00 PM"
+      },
+      {
+        "upTime": "8:10 AM",
+        "stopageName": "Berhampore",
+        "downTime": "5:20 PM"
+      }
     ]
   },
   {
@@ -56766,10 +56910,26 @@
     "depotName": "Karimpur",
     "destination": "Berhampore",
     "schedule": [
-      { "upTime": "6:30 AM", "stopageName": "Karimpur", "downTime": "7:30 PM" },
-      { "upTime": "7:10 AM", "stopageName": "Nashipur", "downTime": "6:50 PM" },
-      { "upTime": "7:50 AM", "stopageName": "Beldanga", "downTime": "6:10 PM" },
-      { "upTime": "8:30 AM", "stopageName": "Berhampore", "downTime": "5:30 PM" }
+      {
+        "upTime": "6:30 AM",
+        "stopageName": "Karimpur",
+        "downTime": "7:30 PM"
+      },
+      {
+        "upTime": "7:10 AM",
+        "stopageName": "Nashipur",
+        "downTime": "6:50 PM"
+      },
+      {
+        "upTime": "7:50 AM",
+        "stopageName": "Beldanga",
+        "downTime": "6:10 PM"
+      },
+      {
+        "upTime": "8:30 AM",
+        "stopageName": "Berhampore",
+        "downTime": "5:30 PM"
+      }
     ]
   },
   {
@@ -56782,10 +56942,3590 @@
     "depotName": "Karimpur",
     "destination": "Berhampore",
     "schedule": [
-      { "upTime": "7:30 AM", "stopageName": "Karimpur", "downTime": "6:30 PM" },
-      { "upTime": "8:10 AM", "stopageName": "Tehatta", "downTime": "5:50 PM" },
-      { "upTime": "8:50 AM", "stopageName": "Beldanga", "downTime": "5:10 PM" },
-      { "upTime": "9:30 AM", "stopageName": "Berhampore", "downTime": "4:30 PM" }
+      {
+        "upTime": "7:30 AM",
+        "stopageName": "Karimpur",
+        "downTime": "6:30 PM"
+      },
+      {
+        "upTime": "8:10 AM",
+        "stopageName": "Tehatta",
+        "downTime": "5:50 PM"
+      },
+      {
+        "upTime": "8:50 AM",
+        "stopageName": "Beldanga",
+        "downTime": "5:10 PM"
+      },
+      {
+        "upTime": "9:30 AM",
+        "stopageName": "Berhampore",
+        "downTime": "4:30 PM"
+      }
+    ]
+  },
+  {
+    "busName": "Route 1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Ramnagar",
+    "destination": "Palbazar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Ramnagar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Palbazar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 1A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Ramnagar",
+    "destination": "Mukundapur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Ramnagar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Mukundapur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 1B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Ramnagar",
+    "destination": "Nayabad (Garia)",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Ramnagar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Nayabad (Garia)",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 3",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bagbazar",
+    "destination": "Serampore",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bagbazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Serampore",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 3B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Milk Colony",
+    "destination": "New Alipore",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Milk Colony",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "New Alipore",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 3C/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Nagerbazar",
+    "destination": "Anandapur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Nagerbazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Anandapur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 3C/2",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Nagerbazar",
+    "destination": "Ruby Hospital",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Nagerbazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Ruby Hospital",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 3D",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Milk Colony",
+    "destination": "Sakherbazar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Milk Colony",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Sakherbazar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 3D/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Milk Colony",
+    "destination": "Sakherbazar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Milk Colony",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Sakherbazar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 12",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Rajabazar",
+    "destination": "Rajabagan",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Rajabazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Rajabagan",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 12A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Rajabagan",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Rajabagan",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 12B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Badartala",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Badartala",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 12C",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Pailan",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Pailan",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 12C/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Shibrampurp",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Shibrampurp",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 12C/1A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Konchowki",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Konchowki",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 12C/2",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Thakdari",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Thakdari",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 12AD",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Maidan",
+    "destination": "Akrafatak",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Maidan",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Akrafatak",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 12/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Sealdah",
+    "destination": "Fatepur 28 No.",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Sealdah",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Fatepur 28 No.",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 13",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Sealdah",
+    "destination": "Parnasree",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Sealdah",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Parnasree",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 13A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "B.B.D. Bagh",
+    "destination": "Shampa Mirza Nagar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "B.B.D. Bagh",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Shampa Mirza Nagar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 13C",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Old Dakghar",
+    "destination": "Layalka",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Old Dakghar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Layalka",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 17",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Chetla",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Chetla",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 17B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Baghajatin",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Baghajatin",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 18B/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Dakghar",
+    "destination": "China Mandir",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Dakghar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "China Mandir",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 18C",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Kestor More",
+    "destination": "Anandapur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Kestor More",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Anandapur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 18D",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Surya Sen Nagar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Surya Sen Nagar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 21",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Sealdah",
+    "destination": "Kadamtala",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Sealdah",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Kadamtala",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 21/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Sealdah",
+    "destination": "Kadamtala",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Sealdah",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Kadamtala",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 23",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Barasat",
+    "destination": "Boalghata",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Barasat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Boalghata",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 24",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bandhaghat",
+    "destination": "Topsia",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bandhaghat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Topsia",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 24A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bandhaghat",
+    "destination": "Topsia",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bandhaghat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Topsia",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 24A/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Fire Service Station",
+    "destination": "Mukundapur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Fire Service Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Mukundapur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 26",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bonhoogly",
+    "destination": "Chapadanga",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bonhoogly",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Chapadanga",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 28",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Maidan",
+    "destination": "Sealdah",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Maidan",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Sealdah",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 30A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Sinthee",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Sinthee",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 30B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Gouripur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Gouripur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 30B/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Gouripur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Gouripur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 30C",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Hatiara",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Hatiara",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 30C/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Hatiara",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Hatiara",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 30D",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Dum Dum Cantonment Station",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Dum Dum Cantonment Station",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 32A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Dakshineshwar",
+    "destination": "Salt Lake Technopolis",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Dakshineshwar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Salt Lake Technopolis",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 34B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Dunlop",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Dunlop",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 34B/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Pardankuni",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Pardankuni",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 34C",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Noapara/Dum Dum Cantonment",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Noapara/Dum Dum Cantonment",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 37",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Dhakuria",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Dhakuria",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 37A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Nayabad (Garia)",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Nayabad (Garia)",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 39",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "High Court",
+    "destination": "Picnic Garden",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "High Court",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Picnic Garden",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 39A/2",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "VIP Bazar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "VIP Bazar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 40A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Julpia",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Julpia",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 40B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Thakurpukur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Thakurpukur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 41",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Layalka",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Layalka",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 41B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "High Court",
+    "destination": "Netaji Nagar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "High Court",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Netaji Nagar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 42A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Picnic Garden",
+    "destination": "Bichalighat",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Picnic Garden",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Bichalighat",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 42B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Beliaghata Sales Tax",
+    "destination": "Bichalighat",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Beliaghata Sales Tax",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Bichalighat",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 43",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Bonhoogly",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Bonhoogly",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 43/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Ariadaha",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Ariadaha",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 44",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Baguihati",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Baguihati",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 44A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Salt Lake",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Salt Lake",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 45",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Airport Gate No.1",
+    "destination": "Patuli",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Airport Gate No.1",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Patuli",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 45A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Gouripur",
+    "destination": "Garia Railway Station",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Gouripur",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Garia Railway Station",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 45B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Building More",
+    "destination": "Garia Railway Station",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Building More",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Garia Railway Station",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 46",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Airport Gate No.1",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Airport Gate No.1",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 46B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Akansha",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Akansha",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 47",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Lake Town",
+    "destination": "New Town",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Lake Town",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "New Town",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 47B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Lake Town",
+    "destination": "Ruby Hospital",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Lake Town",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Ruby Hospital",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 47/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Tollygunge Tram Depot",
+    "destination": "Salt Lake Tank No.12",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Tollygunge Tram Depot",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Salt Lake Tank No.12",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 51",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Pardankuni",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Pardankuni",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 52",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Ramrajatala",
+    "destination": "Esplanade",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Ramrajatala",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 53",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Narit",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Narit",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 54",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Ballykhal",
+    "destination": "Esplanade",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Ballykhal",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 54/2",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Rishra Station",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Rishra Station",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 55",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Shibpur Botanical Garden",
+    "destination": "Esplanade",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Shibpur Botanical Garden",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 55A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Shibpur Tram Depot",
+    "destination": "Esplanade",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Shibpur Tram Depot",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 56",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Ruiya Pubapara",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Ruiya Pubapara",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 57",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Kona",
+    "destination": "Esplanade",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Kona",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 57A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Chanditala",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Chanditala",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 58",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Chatterjeehat",
+    "destination": "Esplanade",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Chatterjeehat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 59",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bakultala",
+    "destination": "Esplanade",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bakultala",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 61",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Alampur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Alampur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 63",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Domjur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Domjur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 71",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Maidan",
+    "destination": "Salt Lake",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Maidan",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Salt Lake",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 72",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Dasnagar",
+    "destination": "Park Circus",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Dasnagar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Park Circus",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 72A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Basirhat",
+    "destination": "Dhamakhali",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Basirhat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Dhamakhali",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 73",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Kadamtala",
+    "destination": "Esplanade",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Kadamtala",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 74",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Habra",
+    "destination": "Naihati",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Habra",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Naihati",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 75",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Roypur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Roypur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 77A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Batanagar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Batanagar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 78",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Barrackpore Court",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Barrackpore Court",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 78C/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Barasat",
+    "destination": "Dakshineshwar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Barasat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Dakshineshwar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 78E",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bongaon",
+    "destination": "Dakshineshwar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bongaon",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Dakshineshwar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 78/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Rahara Bazar/Parthapur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Rahara Bazar/Parthapur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 79",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Dunlop",
+    "destination": "Panchla",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Dunlop",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Panchla",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 79B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bagbazar",
+    "destination": "Barasat",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bagbazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Barasat",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 79D",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Madhyamgram",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Madhyamgram",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 80A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Garia Bus Stand",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Garia Bus Stand",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 80B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Garia Bus Stand",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Garia Bus Stand",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 81",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Barasat",
+    "destination": "Barrackpore Fishery Gate",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Barasat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Barrackpore Fishery Gate",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 83",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Falta",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Falta",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 85",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Barrackpore Court",
+    "destination": "Kanchrapara",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Barrackpore Court",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Kanchrapara",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 87",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Barasat",
+    "destination": "Jaguli",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Barasat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Jaguli",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 87A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Barasat",
+    "destination": "Naihati",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Barasat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Naihati",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 88",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Barasat",
+    "destination": "Kanchrapara",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Barasat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Kanchrapara",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 91",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Shyambazar",
+    "destination": "Bhangor",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Shyambazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Bhangor",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 91A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Shyambazar",
+    "destination": "Haroa",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Shyambazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Haroa",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 91B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Shyambazar",
+    "destination": "Bhojherhat",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Shyambazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Bhojherhat",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 91C",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Shyambazar",
+    "destination": "Lauhati",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Shyambazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Lauhati",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 92",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bongaon",
+    "destination": "Boyra",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bongaon",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Boyra",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 92A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bongaon",
+    "destination": "Duttaphulia",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bongaon",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Duttaphulia",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 93",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bagbazar",
+    "destination": "Kharibari",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bagbazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Kharibari",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 94",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Diamond Harbour",
+    "destination": "Namkhana",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Diamond Harbour",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Namkhana",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 95",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bongaon",
+    "destination": "Ashoknagar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bongaon",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Ashoknagar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 96C",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bongaon",
+    "destination": "Berigopalpur Ghat",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bongaon",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Berigopalpur Ghat",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 96D",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bongaon",
+    "destination": "Duttaphulia",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bongaon",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Duttaphulia",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 201",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Nimta",
+    "destination": "Salt Lake Nicco Park",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Nimta",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Salt Lake Nicco Park",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 202",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Nagerbazar",
+    "destination": "Science City",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Nagerbazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Science City",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 204/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Rajabazar",
+    "destination": "Chetla",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Rajabazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Chetla",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 205",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Bansdroni",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Bansdroni",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 205A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Bansdroni",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Bansdroni",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 206",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "New Garia Station",
+    "destination": "Salt Lake AJ Block",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "New Garia Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Salt Lake AJ Block",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 208",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Kudghat",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Kudghat",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 210",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Raichak",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Raichak",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 211",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Ahiritola",
+    "destination": "Kharibari",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Ahiritola",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Kharibari",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 211A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Ahiritola",
+    "destination": "Langolpota",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Ahiritola",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Langolpota",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 211B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Ahiritola",
+    "destination": "Kharibari",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Ahiritola",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Kharibari",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 212",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Palbazar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Palbazar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 213",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Ghatakpukur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Ghatakpukur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 213/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Shibpur Botanical Garden",
+    "destination": "Ghatakpukur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Shibpur Botanical Garden",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Ghatakpukur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 214",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Sajirhat",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Sajirhat",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 214A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Sodepur Girja",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Sodepur Girja",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 215",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Lake Town",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Lake Town",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 215/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Lake Town VIP",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Lake Town VIP",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 215A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Salt Lake Technopolis",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Salt Lake Technopolis",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 215A/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Mahishbathan",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Mahishbathan",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 217",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Narayanpur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Narayanpur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 217A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Beraberi",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Beraberi",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 217B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Bablatala",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Bablatala",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 218",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Baruipur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Baruipur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 219",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Nagerbazar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Nagerbazar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 219/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Nagerbazar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Nagerbazar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 221",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Nagerbazar",
+    "destination": "Golpark",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Nagerbazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Golpark",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 222",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Behala Chowrasta",
+    "destination": "Dunlop",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Behala Chowrasta",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Dunlop",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 223",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "B.T. College",
+    "destination": "Golf Green",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "B.T. College",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Golf Green",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 227",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "B.N.R.",
+    "destination": "Bangur",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "B.N.R.",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Bangur",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 228",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Mahamayatala",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Mahamayatala",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 230",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Kamarhati",
+    "destination": "Alipore Zoo",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Kamarhati",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Alipore Zoo",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 234",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Belghoria",
+    "destination": "Golf Green",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Belghoria",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Golf Green",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 234/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Belghoria Station",
+    "destination": "Golf Green",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Belghoria Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Golf Green",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 235",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Salt Lake",
+    "destination": "Amtala",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Salt Lake",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Amtala",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 237",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Tatkal",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Tatkal",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 237/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Birati",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Birati",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 238",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Barasat",
+    "destination": "Howrah Station",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Barasat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 239",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Babughat",
+    "destination": "Salt Lake",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Babughat",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Salt Lake",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 239B",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Howrah Station",
+    "destination": "Mahisbathan",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Howrah Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Mahisbathan",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 240",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bagbazar",
+    "destination": "Jodhpur Park",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bagbazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Jodhpur Park",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 240/1",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Bagbazar",
+    "destination": "Golf Green",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Bagbazar",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Golf Green",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 241",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Akra Santoshpur Station",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Akra Santoshpur Station",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 241A",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Sealdah",
+    "destination": "Akrafatak",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Sealdah",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Akrafatak",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 242",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Cossipore",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Cossipore",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 246",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Burul",
+    "destination": "Radhanagar",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Burul",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Radhanagar",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 252",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Hasnabad",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Hasnabad",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 253",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Esplanade",
+    "destination": "Basirhat",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Esplanade",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Basirhat",
+        "downTime": null
+      }
+    ]
+  },
+  {
+    "busName": "Route 257",
+    "alternateName": "",
+    "agencyName": "Kolkata Transport",
+    "registrationNumber": "",
+    "busType": "Government - NON AC",
+    "contactNumber": "",
+    "depotName": "Kolkata Railway Station",
+    "destination": "Julpia",
+    "schedule": [
+      {
+        "upTime": null,
+        "stopageName": "Kolkata Railway Station",
+        "downTime": null
+      },
+      {
+        "upTime": null,
+        "stopageName": "Julpia",
+        "downTime": null
+      }
     ]
   }
 ]
