@@ -250,11 +250,15 @@ const Home = () => {
               )}
               
               {!loading && buses.length === 0 && (sourceLocation || destLocation) && (
-                <Card className="text-center py-12 mt-6">
+                <Card className="text-center py-12 mt-6 border-2 border-blue-200 bg-blue-50">
                   <CardContent>
                     <Bus className="h-16 w-16 mx-auto mb-4 text-gray-300" />
-                    <h3 className="text-xl font-semibold mb-2">No Buses Found</h3>
-                    <p className="text-gray-500">Try selecting different locations or check back later</p>
+                    <h3 className="text-xl font-semibold mb-2 text-gray-800">No Buses Found</h3>
+                    <p className="text-gray-600 mb-4">Try selecting different locations or check back later</p>
+                    <div className="bg-blue-100 border border-blue-300 rounded-lg p-4 text-sm text-blue-900">
+                      <p className="font-semibold mb-2">💡 Tip:</p>
+                      <p>If results don't show on the first search, please <span className="font-bold">tap the Search button again</span>. This sometimes helps retrieve the results.</p>
+                    </div>
                   </CardContent>
                 </Card>
               )}
